@@ -1,1 +1,3 @@
 print("start")
+
+print("restart")
